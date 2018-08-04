@@ -2,6 +2,8 @@
 
 This is a minimal implementation of a Deep Neural Network using [tflearn](http://tflearn.org)
 
+**Project State:** Dead. Pull request and Issues are OK as long as they are simple to handle.
+
 ## Usage
 
 ```
